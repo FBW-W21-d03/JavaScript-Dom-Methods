@@ -11,3 +11,7 @@ Schreibe eine HTML Seite mit folgenden Elementen
 Schreibe in JavaScript folgende Funktionalität in einer Funktion und verknpüfe sie mit dem Button:
 
 Wenn ein Nutzer auf den Button drückt, ändert sich der Platzhalter zu folgendem Inhalt "Hallo. Willkommen" und die Zahl ändert sich in 100 * 1,16.
+
+D.h.
+
+.innerHTML = 100 * 1.16;
