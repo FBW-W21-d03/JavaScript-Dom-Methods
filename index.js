@@ -1,7 +1,6 @@
 console.log("Hallo");
-document.getElementById("paragraph").innerHTML = "wilkommen!";
+document.getElementById("Platzhalter").innerHTML = "wilkommen!";
 function myFunction(){
-console.log("1.16");  
-document.getElementById("paragrph").innerHTML = "Wilkommen"; + name;
+console.log("Tag");  
+document.getElementById("Zahl").innerHTML = 100 * 1,16; 
 }
-  
