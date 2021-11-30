@@ -1,6 +1,6 @@
-console.log("Hallo");
-document.getElementById("Platzhalter").innerHTML = "wilkommen!";
-function myFunction(){
-console.log("Tag");  
-document.getElementById("Zahl").innerHTML = 100 * 1,16; 
-}
+
+    function myFunction() {
+        document.getElementById("Platzhalter").innerHTML = "Tach";
+      
+        document.getElementById("Zahl").innerHTML = 100 * 1.16;
+      }
